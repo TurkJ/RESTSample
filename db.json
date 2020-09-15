@@ -1,31 +1,4 @@
 {
-  "Users":  [
-    {
-      "FirstName"  :  "Julie",
-      "LastName":  "Doran",
-      "Region": "GA",
-      "Address":  "234 Peachtree Street",
-      "City": "Atlanta",
-      "PostalCode":  74581,
-      "DOB": 20265,
-      "IDnumber":  107550849,
-      "Photo": "",
-      "BloodType":  "B-"
-    }
-    {
-      "FirstName": "Michael",
-      "LastName":  "Levi",
-      "Region": "FL",
-      "Address":  "832 East Street",
-      "City": "Miami",
-      "PostalCode":  33301,
-      "DOB": 28735,
-      "IDnumber":  120366726,
-      "Photo": "",
-      "BloodType":  "AB+"
-    }
-  ]
-  {
   "posts": [
     {
       "id": 1,
@@ -35,5 +8,4 @@
   "profile": {
     "name": "typicode"
   }
-}
 }
