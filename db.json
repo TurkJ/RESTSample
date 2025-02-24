@@ -1,4 +1,12 @@
 {
+"Animals":  [
+	{
+		"Name"  :  Fish
+	},
+	{
+		"Name"  :  Cat
+	}
+],
   "Users":  [
     {
       "FirstName"  :  "Julie",
